@@ -1,8 +1,8 @@
 # MobileAppDevelopment_TermProject
 CTIS487 - Mobile Application Development Final Term Project (Coffee Delivery App on Android). 07/01/2020
 
-#Requirements Satisfied
-The proposed project must cover the following requirements
+# Requirements Satisfied
+## The proposed project must cover the following requirements
 - The project must be created such that it will be capable of running on any Android enabled
 mobile device (i.e., use multiple resolutions for the images).
 - https://material.google.com/style/icons.html
