@@ -1,0 +1,18 @@
+{ 
+    "coffees": [
+		{
+			"coffeeName": "Filter Coffee",
+			"price": "7.5$"
+		},
+		{
+			"coffeeName": "Mocha",
+			"price": "11.5$"
+		},		{
+			"coffeeName": "Latte",
+			"price": "10$"
+		},		{
+			"coffeeName": "Frappe",
+			"price": "13.5$"
+		}
+	]
+}
