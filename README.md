@@ -22,12 +22,6 @@ scores can be saved in a database).
 - The project must use at least one extra jar file (external library)
 -Provide a brief testing report of your application against multiple real mobile devices by
 using AWS Device Farm. https://aws.amazon.com/device-farm/
--Teams should submit the source code of their project through the Moodle page and
-demonstrate the project to the instructor in his/her office or Lab8 until 31.12.2019, 17:00.
--No late submissions will be accepted.
--Each student or team should implement the project on their own. Any plagiarism attempts
-will be severely penalized and necessary disciplinary action will be taken based on
-departmental policy.
--You need to upload your project to google market. If you cannot because of the fee, this
+- You need to upload your project to google market. If you cannot because of the fee, this
 time you need to explain which steps must be followed from AndroidStudio to build the
 project and form google which steps must be followed must be explained.
